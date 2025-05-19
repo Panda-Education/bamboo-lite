@@ -13,3 +13,6 @@
 # Ignored files
 *.ignore
 .DS_Store/
+
+# Ignore DB files
+*.db
