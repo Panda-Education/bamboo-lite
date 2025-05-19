@@ -1,0 +1,15 @@
+
+
+# IDE Files
+.idea/
+.vs-code/
+
+# Env Files
+.env
+.env.*
+*.env
+!*.env.sample
+
+# Ignored files
+*.ignore
+.DS_Store/
